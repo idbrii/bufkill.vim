@@ -212,7 +212,6 @@ call <SID>CreateUniqueCommand('B'   , ':call <SID>GotoBuffer(''bufback'',"<bang>
 call <SID>CreateUniqueCommand('F'   , ':call <SID>GotoBuffer(''bufforward'',"<bang>")')
 call <SID>CreateUniqueCommand('D'   , ':call <SID>BufKill(''bd'',"<bang>")')
 call <SID>CreateUniqueCommand('UN'  , ':call <SID>BufKill(''bun'',"<bang>")')
-call <SID>CreateUniqueCommand('D'   , ':call <SID>BufKill(''bd'',"<bang>")')
 call <SID>CreateUniqueCommand('W'   , ':call <SID>BufKill(''bw'',"<bang>")')
 call <SID>CreateUniqueCommand('UNDO', ':call <SID>UndoKill()')
 
