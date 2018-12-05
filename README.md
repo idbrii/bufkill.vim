@@ -1,3 +1,7 @@
+:warning: I don't use bufkill anymore.
+
+I recommend [vim-bbye](https://github.com/moll/vim-bbye) instead.
+
 # vim-bufkill
 Git repo for http://www.vim.org/scripts/script.php?script_id=1147
 
